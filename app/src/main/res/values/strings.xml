@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidUserAuthentication</string>
+    <string name="facebook_app_id">1819047058391880</string>
+    <string name="fb_login_protocol_scheme">fb1819047058391880</string>
+</resources>
